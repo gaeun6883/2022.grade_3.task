@@ -24,4 +24,6 @@ Doing project about university lecture
   
 #### lec.Software Engineer  
 -team project.siro: 게임 시로의 희망  
-
+   
+  
+detail in each file README.md
