@@ -1,6 +1,7 @@
 # 3-2 Mobile Programming Term Project
+-파일을 다운받은 후, 안드로이드 스튜디오로 ProjectRef 파일을 열 시 실행가능  
   
-#### 최종발표  
+###### 최종발표  
 ![슬라이드1](https://user-images.githubusercontent.com/93725108/209472394-cf4fb713-dfc7-44c3-9704-8f1e6f21c55c.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/93725108/209472380-49af5d3d-1bb9-4f6a-914f-bb188ba56a10.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/93725108/209472384-9201a564-eb43-4fa6-807c-ca4ac35d4fa4.JPG)
