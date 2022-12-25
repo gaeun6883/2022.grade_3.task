@@ -17,7 +17,7 @@ Doing project about university lecture
 -project.fresh: 냉장고 속 내용물 리스트 보기/추가 기능 구현  
 
 #### lec.Network
--관련 지식 레포트
+-소켓 채팅 프로그램 구현
 
 #### lec.Operationg system  
 -cpu, memory 정책 알고리즘 구현  
