@@ -1,4 +1,4 @@
-# Algorithm lecture Task
+# 3-1 Algorithm Task
   
   ### 1. 추천 시스템(Collaborative Filtering)
   -2022-Collection(추천시스템).pdf: 과제 설명 문서  
