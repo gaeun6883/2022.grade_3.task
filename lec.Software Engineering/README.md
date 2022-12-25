@@ -16,7 +16,6 @@ https://github.com/KYH-AI/SoftWareDesign.git
   
   
 - 개발 기간 내 진행 상황 정리(슬랙에 적어둔 것)  
-  
 Monster asset  
 Stage 1. map visual: 초원, 들판  
              -Spiked Slime, Mushroom, Flying eye  
