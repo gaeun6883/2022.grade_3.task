@@ -9,7 +9,7 @@
   -결과
     
     
-    ### 2. 연관어 검색(Find Correlative words)
+   ### 2. 연관어 검색(Find Correlative words)
     -2022-String(Common Pairs).pdf: 과제 설명 문서
     > 파일의 문장들을 받아와 단어가 몇 번 쓰였는지 값 도출
     >> 전체 문장 중 단어가 몇 번 쓰였는지 오름차순으로 정렬  
