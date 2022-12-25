@@ -26,11 +26,9 @@ Doing project about university lecture
 -team project.siro: 게임 시로의 희망  
   
   
-##
-##
-##
-##
-  
+|  
+|  
+|    
   
   
 detail in each file README.md
