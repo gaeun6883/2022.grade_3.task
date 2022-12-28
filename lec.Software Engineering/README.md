@@ -30,6 +30,7 @@ https://github.com/KYH-AI/SoftWareDesign.git
 >> bone: blue skull 일정시간마다 소환  
 >> golem2: 일정시간마다 레이저 발사  
 > 몬스터별 공격 범위  
+  
 ![image](https://user-images.githubusercontent.com/93725108/209772151-c323de77-143e-4e0b-9cd8-f6aa7e32230f.png)  
   
 - 스포너 제작: 일정 시간마다 하나씩 생성/스테이지 내 일정 개수만 나타나도록 생성  
@@ -40,9 +41,9 @@ https://github.com/KYH-AI/SoftWareDesign.git
 ![image](https://user-images.githubusercontent.com/93725108/209770708-87b3ba87-7e81-42e7-8fd7-e79d6647c4d2.png)  
 
 #### 몬스터 구현 설계도: 클래스 다이어그램, 상태 다이어그램  
--class diagram  
+- class diagram  
 ![image](https://user-images.githubusercontent.com/93725108/209770206-73347485-3fb2-436b-b0a5-6f9ec720b467.png)  
--state diagram  
+- state diagram  
 ![image](https://user-images.githubusercontent.com/93725108/209770246-73f63e67-55e2-403c-ac00-47acc72db0a7.png)  
 ![image](https://user-images.githubusercontent.com/93725108/209770259-a91073af-0d28-4c3d-956e-6354cb831397.png)  
   
