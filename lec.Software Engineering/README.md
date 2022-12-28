@@ -38,7 +38,7 @@ https://github.com/KYH-AI/SoftWareDesign.git
 
 #### 몬스터 구현 설계도: 클래스 다이어그램, 상태 다이어그램  
 -class diagram  
-![image](https://user-images.githubusercontent.com/93725108/209770206-73347485-3fb2-436b-b0a5-6f9ec720b467.png)
+![image](https://user-images.githubusercontent.com/93725108/209770206-73347485-3fb2-436b-b0a5-6f9ec720b467.png)  
 -state diagram  
 ![image](https://user-images.githubusercontent.com/93725108/209770246-73f63e67-55e2-403c-ac00-47acc72db0a7.png)  
 ![image](https://user-images.githubusercontent.com/93725108/209770259-a91073af-0d28-4c3d-956e-6354cb831397.png)  
