@@ -29,8 +29,8 @@ https://github.com/KYH-AI/SoftWareDesign.git
 >> crab: 6개의 폭탄 생성/날려서 터뜨리기  
 >> bone: blue skull 일정시간마다 소환  
 >> golem2: 일정시간마다 레이저 발사  
-> 몬스터별 공격 범위  
   
+- 몬스터별 공격 범위  
 ![image](https://user-images.githubusercontent.com/93725108/209772151-c323de77-143e-4e0b-9cd8-f6aa7e32230f.png)  
   
 - 스포너 제작: 일정 시간마다 하나씩 생성/스테이지 내 일정 개수만 나타나도록 생성  
