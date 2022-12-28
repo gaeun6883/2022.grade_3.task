@@ -11,9 +11,9 @@ https://github.com/KYH-AI/SoftWareDesign.git
 ![image](https://user-images.githubusercontent.com/93725108/209768340-637d38e3-9bd3-4644-99c2-c220a8463823.png)  
 ![image](https://user-images.githubusercontent.com/93725108/209768366-4c5e0330-794d-4ab0-991a-13731616c9bd.png)  
 - 스테이지 2,3,4   
-![image](https://user-images.githubusercontent.com/93725108/209768593-37fbb236-ce70-4492-a3f9-8493c7c08687.png)  
-![image](https://user-images.githubusercontent.com/93725108/209768630-7875469b-73b6-4178-8d4f-1227cc30802d.png)  
-![image](https://user-images.githubusercontent.com/93725108/209768715-24b2d679-0351-4ac7-bdc6-9ce47a0cca32.png)  
+<img src = "https://user-images.githubusercontent.com/93725108/209768593-37fbb236-ce70-4492-a3f9-8493c7c08687.png" width="700px">  
+<img src = "https://user-images.githubusercontent.com/93725108/209768630-7875469b-73b6-4178-8d4f-1227cc30802d.png" width="700px">  
+<img src = "https://user-images.githubusercontent.com/93725108/209768715-24b2d679-0351-4ac7-bdc6-9ce47a0cca32.png" width="700px">  
 - 보스/스테이지 클리어  
 ![image](https://user-images.githubusercontent.com/93725108/209768375-91701ce4-47a0-41b5-993b-5c32f0b959c3.png)  
 ![image](https://user-images.githubusercontent.com/93725108/209768406-f3935085-293d-44ca-abe0-fe7b0a18a1be.png)  
