@@ -24,11 +24,14 @@ https://github.com/KYH-AI/SoftWareDesign.git
   
 #### 맡은 일 : SRS 4~6
 - 기본 몬스터 제작: 8종의 하위 몬스터/4종의 상위 몬스터  
-> 상위 몬스터  
+> 상위 몬스터 스킬  
 >> mushroom: 공격범위 내에 들어올 시 터져서 독연기 생성. 내부에 들어올 시 데미지  
 >> crab: 6개의 폭탄 생성/날려서 터뜨리기  
 >> bone: blue skull 일정시간마다 소환  
 >> golem2: 일정시간마다 레이저 발사  
+> 몬스터별 공격 범위  
+![image](https://user-images.githubusercontent.com/93725108/209772151-c323de77-143e-4e0b-9cd8-f6aa7e32230f.png)  
+  
 - 스포너 제작: 일정 시간마다 하나씩 생성/스테이지 내 일정 개수만 나타나도록 생성  
 > 보스 등장시 생성 멈춤  
 > 보스 연출이 끝난 후 다시 재생성  
