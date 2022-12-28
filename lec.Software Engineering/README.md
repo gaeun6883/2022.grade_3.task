@@ -32,10 +32,16 @@ https://github.com/KYH-AI/SoftWareDesign.git
 - 스포너 제작: 일정 시간마다 하나씩 생성/스테이지 내 일정 개수만 나타나도록 생성  
 > 보스 등장시 생성 멈춤  
 > 보스 연출이 끝난 후 다시 재생성  
+  
+- SRS: 기본 몬스터(4)  
+![image](https://user-images.githubusercontent.com/93725108/209770708-87b3ba87-7e81-42e7-8fd7-e79d6647c4d2.png)  
+
 #### 몬스터 구현 설계도: 클래스 다이어그램, 상태 다이어그램  
-  
-  
-  
+-class diagram  
+![image](https://user-images.githubusercontent.com/93725108/209770206-73347485-3fb2-436b-b0a5-6f9ec720b467.png)
+-state diagram  
+![image](https://user-images.githubusercontent.com/93725108/209770246-73f63e67-55e2-403c-ac00-47acc72db0a7.png)  
+![image](https://user-images.githubusercontent.com/93725108/209770259-a91073af-0d28-4c3d-956e-6354cb831397.png)  
   
 #### 개발 기간 내 진행 상황 기록(슬랙 기록)  
 Monster asset  
@@ -216,3 +222,8 @@ stage4: Golem2
 Mushroom: 상황에 따라 time+=time.deltaTime이 제대로 작동되지 않음>>count 식으로 time+=1로 사용//현 5번 초과 SetActive(false)  
 Bone: 원래 basic monster과 같이 attack range에 들어갈 시 blue skull을 생성시킬 생각이었지만 플레이 시, 너무 느리게 전개됨>>생성되자마자 blue skull 생성 시작(Start와  OnEnable의 사용)//쿨타임: 5초,  개당 blue 생성 max: 7개  
 -현재 오브젝트 풀링 방식으로 생성: bone이 죽어도 생성된 blue skull은 죽지 않음 (편집됨)   
+  
+  
+- slack/sourcetree  
+![image](https://user-images.githubusercontent.com/93725108/209770373-5f88b3e2-b8ec-4072-9a5b-e1bd510308e1.png)  
+![image](https://user-images.githubusercontent.com/93725108/209770441-35628e98-9faa-4ea5-8551-1ff95b97dbbb.png)  
