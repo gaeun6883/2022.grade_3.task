@@ -49,6 +49,9 @@
 ![image](https://user-images.githubusercontent.com/93725108/209770246-73f63e67-55e2-403c-ac00-47acc72db0a7.png)  
 ![image](https://user-images.githubusercontent.com/93725108/209770259-a91073af-0d28-4c3d-956e-6354cb831397.png)  
   
+#### 초반 기획 회의(노션)  
+: https://www.notion.so/000e0dc4292a41a79f1502e0a17061da?v=5235de7117cd4bc1b83e85edfcc344a2&p=7b714ccb0b524b3280a9fb1f8cdcd525&pm=s  
+  
 #### 개발 기간 내 진행 상황 기록(슬랙 기록)  
 Monster asset  
 Stage 1. map visual: 초원, 들판  
