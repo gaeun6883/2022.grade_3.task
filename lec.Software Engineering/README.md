@@ -1,7 +1,7 @@
 # 3-2 Software Engineering Team Project: Siro's Revenge
   
 #### team: 6 monkeys  
-<img src = "https://user-images.githubusercontent.com/93725108/209929523-753775b0-dcb3-4e3d-8cb6-a40a5b3a83e3.png" width="400px">  
+<img src = "https://user-images.githubusercontent.com/93725108/209929523-753775b0-dcb3-4e3d-8cb6-a40a5b3a83e3.png" width="250px">  
 #### project file link: https://github.com/KYH-AI/SoftWareDesign.git  
   
 #### 주요 사용 툴: unity, sourcetree, slack  
