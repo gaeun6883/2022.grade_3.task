@@ -10,4 +10,3 @@
 ![슬라이드6](https://user-images.githubusercontent.com/93725108/209472390-cd8693e9-1863-4946-8f57-f10fe354607f.JPG)
 ![슬라이드7](https://user-images.githubusercontent.com/93725108/209472391-8f541ddd-00df-48ce-9b4d-64e62bfa7bd2.JPG)
 ![슬라이드8](https://user-images.githubusercontent.com/93725108/209472392-ac10e362-13e2-4fca-aad4-bae63dbc2717.JPG)
-![슬라이드9](https://user-images.githubusercontent.com/93725108/209472393-116c42f7-f6fc-4264-83e3-435237e0b0ce.JPG)
