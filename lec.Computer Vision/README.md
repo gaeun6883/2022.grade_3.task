@@ -2,8 +2,8 @@
 
 -과제 설명  
 - 저주파 통과 필터
-> Mean Filter(3*3, 5*5)  
-> Median Filter(3*3, 5*5)  
+> Mean Filter(3x3, 5x5)  
+> Median Filter(3x3, 5x5)  
   
 - 고주파 통과 필터  
 > 라플라시안 필터  
