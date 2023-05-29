@@ -39,7 +39,8 @@
 - SRS: 기본 몬스터(4)  
 ![image](https://user-images.githubusercontent.com/93725108/209770708-87b3ba87-7e81-42e7-8fd7-e79d6647c4d2.png)  
   
--소리/효과음: https://docs.google.com/spreadsheets/d/1htknYfqM3n7fJfD_obuZOFrpXQSeFE7Rtdmi6_sszY8/edit#gid=0
+-소리/효과음: https://docs.google.com/spreadsheets/d/1htknYfqM3n7fJfD_obuZOFrpXQSeFE7Rtdmi6_sszY8/edit#gid=0  
+*사본: https://docs.google.com/spreadsheets/d/1xwcYQbfaz6_B1lg_ENSt3Qg8I7RgLVGFaiFzwYrccI0/edit?copiedFromTrash#gid=0
 ![image](https://user-images.githubusercontent.com/93725108/209773278-2b2c76d6-2872-424b-aee7-224e074d16bd.png)  
   
 #### 몬스터 구현 설계도: 클래스 다이어그램, 상태 다이어그램  
